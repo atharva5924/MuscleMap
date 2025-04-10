@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="footer__bar">
-        Copyright © 2024 Web Design Mastery. All rights reserved.
+        Copyright © 2024 Atharva Nile. All rights reserved.
       </div>
     </section>
   );
